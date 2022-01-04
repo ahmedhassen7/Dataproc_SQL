@@ -12,7 +12,7 @@ for our staging folder we are creating a storage bucket. Then we load the data f
 
 Next, in our SQL engine we will import the two CSV files and feed them to the database we created
 
-#Launch a Dataproc Cluster
+## Launch a Dataproc Cluster
 
 we create a Dataproc cluser which will run the spark job later. 
 we set the following configurations: 
